@@ -1,0 +1,12 @@
+Sheet,Planted_Issue,Record
+Invoices,Duplicate invoice row,INV-26-0018
+Invoices,Engagement_ID not in Engagement_Master (ENG045),INV-26-0167
+Invoices,Negative invoice amount,INV-26-0041
+Invoices,Due_Date earlier than Invoice_Date,INV-26-0076
+Invoices,Blank Invoice_Amount_INR,INV-26-0121
+Collections,Receipt larger than invoice amount (overpayment),RCP-0011 / INV-26-0102
+Collections,Receipt_Date earlier than Invoice_Date,RCP-0031 / INV-26-0071
+Collections,Receipt against invoice number that does not exist,RCP-0096 / INV-26-9999
+Headcount,Duplicate employee row,EMP0034
+Headcount,Service_Line has wrong case + trailing space ('consulting '),EMP0059
+Headcount,Service_Line inconsistent case ('Risk advisory'),EMP0092

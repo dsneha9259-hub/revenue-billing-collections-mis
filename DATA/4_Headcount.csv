@@ -1,0 +1,122 @@
+Employee_ID,Service_Line,Grade,Monthly_Cost_INR,Join_Date
+EMP0001,Audit,Consultant,98000,2024-12-22
+EMP0002,Tax,Manager,237000,2024-06-12
+EMP0003,Consulting,Consultant,98000,2020-12-26
+EMP0004,Risk Advisory,Analyst,72000,2024-11-29
+EMP0005,Audit,Consultant,88000,2019-06-01
+EMP0006,Tax,Manager,192000,2019-07-14
+EMP0007,Consulting,Analyst,64000,2022-08-09
+EMP0008,Risk Advisory,Analyst,71000,2020-04-12
+EMP0009,Audit,Analyst,72000,2024-03-21
+EMP0010,Tax,Consultant,89000,2025-05-01
+EMP0011,Consulting,Senior Consultant,130000,2022-10-04
+EMP0012,Risk Advisory,Director,437000,2021-09-12
+EMP0013,Audit,Senior Consultant,137000,2024-09-11
+EMP0014,Tax,Senior Consultant,140000,2024-01-31
+EMP0015,Consulting,Senior Consultant,126000,2023-12-28
+EMP0016,Risk Advisory,Consultant,89000,2020-07-18
+EMP0017,Audit,Analyst,72000,2025-10-20
+EMP0018,Tax,Consultant,105000,2026-04-24
+EMP0019,Consulting,Partner,608000,2022-09-19
+EMP0020,Risk Advisory,Consultant,87000,2022-04-25
+EMP0021,Audit,Senior Consultant,141000,2022-07-19
+EMP0022,Tax,Analyst,61000,2022-06-21
+EMP0023,Consulting,Manager,191000,2023-09-03
+EMP0024,Risk Advisory,Analyst,66000,2020-09-20
+EMP0025,Audit,Consultant,97000,2019-02-07
+EMP0026,Tax,Analyst,72000,2019-08-16
+EMP0027,Consulting,Senior Consultant,149000,2022-01-03
+EMP0028,Risk Advisory,Senior Consultant,128000,2023-12-15
+EMP0029,Audit,Consultant,98000,2025-07-07
+EMP0030,Tax,Manager,214000,2021-07-02
+EMP0031,Consulting,Senior Consultant,156000,2021-09-25
+EMP0032,Risk Advisory,Manager,220000,2022-09-24
+EMP0033,Audit,Manager,207000,2023-04-23
+EMP0034,Tax,Consultant,88000,2022-09-08
+EMP0035,Consulting,Consultant,107000,2023-08-26
+EMP0036,Risk Advisory,Analyst,64000,2023-08-31
+EMP0037,Audit,Analyst,59000,2023-06-30
+EMP0038,Tax,Consultant,93000,2025-11-09
+EMP0039,Consulting,Consultant,86000,2022-01-26
+EMP0040,Risk Advisory,Senior Consultant,148000,2021-01-20
+EMP0041,Audit,Partner,686000,2025-07-01
+EMP0042,Tax,Senior Consultant,158000,2022-07-13
+EMP0043,Consulting,Senior Consultant,160000,2023-08-11
+EMP0044,Risk Advisory,Manager,195000,2024-10-12
+EMP0045,Audit,Senior Consultant,141000,2023-10-21
+EMP0046,Tax,Senior Consultant,160000,2023-02-02
+EMP0047,Consulting,Partner,632000,2025-01-26
+EMP0048,Risk Advisory,Senior Consultant,138000,2024-06-04
+EMP0049,Audit,Analyst,59000,2022-10-04
+EMP0050,Tax,Consultant,109000,2024-09-29
+EMP0051,Consulting,Consultant,109000,2020-10-15
+EMP0052,Risk Advisory,Senior Consultant,129000,2022-01-16
+EMP0053,Audit,Consultant,105000,2020-12-19
+EMP0054,Tax,Manager,191000,2025-11-01
+EMP0055,Consulting,Consultant,87000,2021-09-23
+EMP0056,Risk Advisory,Senior Consultant,151000,2019-10-23
+EMP0057,Audit,Senior Consultant,156000,2024-06-20
+EMP0058,Tax,Manager,192000,2024-06-19
+EMP0059,consulting ,Analyst,69000,2020-09-22
+EMP0060,Risk Advisory,Analyst,67000,2025-05-05
+EMP0061,Audit,Senior Consultant,127000,2024-08-13
+EMP0062,Tax,Manager,224000,2021-12-19
+EMP0063,Consulting,Analyst,72000,2022-11-16
+EMP0064,Risk Advisory,Manager,205000,2021-07-28
+EMP0065,Audit,Consultant,95000,2019-11-06
+EMP0066,Tax,Manager,199000,2021-01-12
+EMP0067,Consulting,Analyst,64000,2022-04-29
+EMP0068,Risk Advisory,Manager,241000,2024-04-21
+EMP0069,Audit,Analyst,65000,2022-12-13
+EMP0070,Tax,Consultant,109000,2020-01-05
+EMP0071,Consulting,Senior Consultant,147000,2019-06-12
+EMP0072,Risk Advisory,Manager,215000,2021-11-25
+EMP0073,Audit,Analyst,64000,2019-08-11
+EMP0074,Tax,Analyst,59000,2019-07-01
+EMP0075,Consulting,Consultant,101000,2025-07-05
+EMP0076,Risk Advisory,Consultant,108000,2021-07-15
+EMP0077,Audit,Senior Consultant,145000,2026-04-01
+EMP0078,Tax,Manager,201000,2021-02-07
+EMP0079,Consulting,Consultant,107000,2021-04-06
+EMP0080,Risk Advisory,Senior Consultant,147000,2022-11-30
+EMP0081,Audit,Senior Consultant,136000,2025-04-26
+EMP0082,Tax,Consultant,89000,2020-10-13
+EMP0083,Consulting,Manager,204000,2019-06-13
+EMP0084,Risk Advisory,Senior Consultant,153000,2023-02-25
+EMP0085,Audit,Consultant,97000,2026-01-08
+EMP0086,Tax,Senior Consultant,155000,2026-05-09
+EMP0087,Consulting,Manager,230000,2022-06-23
+EMP0088,Risk Advisory,Consultant,88000,2020-05-14
+EMP0089,Audit,Senior Consultant,159000,2024-10-05
+EMP0090,Tax,Consultant,86000,2022-10-16
+EMP0091,Consulting,Director,352000,2021-03-03
+EMP0092,Risk advisory,Analyst,60000,2019-04-21
+EMP0093,Audit,Consultant,98000,2024-11-03
+EMP0094,Tax,Analyst,60000,2021-04-23
+EMP0095,Consulting,Consultant,87000,2025-08-21
+EMP0096,Risk Advisory,Analyst,63000,2024-02-29
+EMP0097,Audit,Consultant,95000,2020-02-14
+EMP0098,Tax,Analyst,73000,2019-01-05
+EMP0099,Consulting,Analyst,67000,2021-01-12
+EMP0100,Risk Advisory,Consultant,96000,2022-08-14
+EMP0101,Audit,Senior Consultant,155000,2022-12-01
+EMP0102,Tax,Consultant,91000,2020-12-03
+EMP0103,Consulting,Consultant,102000,2021-06-19
+EMP0104,Risk Advisory,Consultant,108000,2020-09-08
+EMP0105,Audit,Analyst,66000,2025-05-21
+EMP0106,Tax,Analyst,59000,2024-04-05
+EMP0107,Consulting,Analyst,73000,2019-08-31
+EMP0108,Risk Advisory,Analyst,59000,2019-01-26
+EMP0109,Audit,Analyst,69000,2022-07-07
+EMP0110,Tax,Consultant,100000,2020-10-14
+EMP0111,Consulting,Manager,189000,2021-01-27
+EMP0112,Risk Advisory,Senior Consultant,132000,2025-04-23
+EMP0113,Audit,Senior Consultant,156000,2021-02-25
+EMP0114,Tax,Manager,213000,2020-11-17
+EMP0115,Consulting,Senior Consultant,160000,2019-08-03
+EMP0116,Risk Advisory,Manager,206000,2021-09-03
+EMP0117,Audit,Senior Consultant,147000,2021-03-11
+EMP0118,Tax,Consultant,93000,2020-08-07
+EMP0119,Consulting,Analyst,59000,2024-06-09
+EMP0120,Risk Advisory,Analyst,61000,2021-07-24
+EMP0034,Tax,Consultant,88000,2022-09-08

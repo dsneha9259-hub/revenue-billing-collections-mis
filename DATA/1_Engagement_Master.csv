@@ -1,0 +1,41 @@
+Engagement_ID,Client_Name,Service_Line,Engagement_Partner,Contract_Value_INR,Payment_Terms_Days,Start_Date
+ENG001,Arcadia Industries Ltd,Audit,Anil Mehta,2400000,30,2026-05-01
+ENG002,Bluestone Pharma Pvt Ltd,Tax,Rohit Sharma,8300000,30,2026-04-18
+ENG003,Crestline Finance Ltd,Consulting,Vikram Iyer,6000000,30,2026-05-05
+ENG004,Deccan Retail Ltd,Risk Advisory,Sanjay Gupta,2400000,30,2026-04-28
+ENG005,Everest Infotech Pvt Ltd,Audit,Anil Mehta,3600000,30,2026-04-04
+ENG006,Fulcrum Motors Ltd,Tax,Rohit Sharma,7000000,30,2026-05-10
+ENG007,Granite Energy Ltd,Consulting,Vikram Iyer,9200000,60,2026-05-01
+ENG008,Horizon Foods Pvt Ltd,Risk Advisory,Sanjay Gupta,9000000,45,2026-05-02
+ENG009,Indus Industries Ltd,Audit,Kavita Rao,6800000,60,2026-04-06
+ENG010,Jade Pharma Pvt Ltd,Tax,Rohit Sharma,10300000,30,2026-04-19
+ENG011,Kestrel Finance Ltd,Consulting,Vikram Iyer,6700000,30,2026-04-15
+ENG012,Lotus Retail Ltd,Risk Advisory,Meera Joshi,3400000,30,2026-05-08
+ENG013,Meridian Infotech Pvt Ltd,Audit,Anil Mehta,9700000,45,2026-04-26
+ENG014,Nimbus Motors Ltd,Tax,Neha Kapoor,5700000,30,2026-05-03
+ENG015,Orion Energy Ltd,Consulting,Priya Nair,7200000,45,2026-04-18
+ENG016,Pinnacle Foods Pvt Ltd,Risk Advisory,Sanjay Gupta,6200000,30,2026-04-10
+ENG017,Quantum Industries Ltd,Audit,Anil Mehta,2400000,45,2026-04-23
+ENG018,Redwood Pharma Pvt Ltd,Tax,Neha Kapoor,10800000,30,2026-04-03
+ENG019,Saffron Finance Ltd,Consulting,Priya Nair,10500000,60,2026-05-04
+ENG020,Terra Retail Ltd,Risk Advisory,Meera Joshi,4400000,45,2026-04-26
+ENG021,Unity Infotech Pvt Ltd,Audit,Anil Mehta,3200000,45,2026-05-01
+ENG022,Vertex Motors Ltd,Tax,Rohit Sharma,8800000,30,2026-04-15
+ENG023,Westbrook Energy Ltd,Consulting,Priya Nair,2200000,60,2026-05-09
+ENG024,Zenith Foods Pvt Ltd,Risk Advisory,Meera Joshi,6100000,30,2026-05-06
+ENG025,Aurora Industries Ltd,Audit,Anil Mehta,8600000,30,2026-05-02
+ENG026,Banyan Pharma Pvt Ltd,Tax,Neha Kapoor,9400000,60,2026-04-08
+ENG027,Cobalt Finance Ltd,Consulting,Priya Nair,5300000,30,2026-04-19
+ENG028,Delta Retail Ltd,Risk Advisory,Meera Joshi,6700000,60,2026-04-02
+ENG029,Ember Infotech Pvt Ltd,Audit,Kavita Rao,7200000,30,2026-04-07
+ENG030,Falcon Motors Ltd,Tax,Neha Kapoor,9300000,30,2026-04-28
+ENG031,Glacier Energy Ltd,Consulting,Priya Nair,11100000,60,2026-04-30
+ENG032,Harbor Foods Pvt Ltd,Risk Advisory,Meera Joshi,5300000,30,2026-05-09
+ENG033,Ivory Industries Ltd,Audit,Anil Mehta,5800000,30,2026-04-14
+ENG034,Juniper Pharma Pvt Ltd,Tax,Neha Kapoor,11000000,30,2026-04-15
+ENG035,Krypton Finance Ltd,Consulting,Priya Nair,2300000,60,2026-04-19
+ENG036,Lumen Retail Ltd,Risk Advisory,Sanjay Gupta,9800000,45,2026-04-08
+ENG037,Monsoon Infotech Pvt Ltd,Audit,Kavita Rao,6300000,45,2026-04-06
+ENG038,Nova Motors Ltd,Tax,Neha Kapoor,8700000,45,2026-04-20
+ENG039,Opal Energy Ltd,Consulting,Vikram Iyer,4900000,60,2026-04-10
+ENG040,Pioneer Foods Pvt Ltd,Risk Advisory,Sanjay Gupta,7400000,30,2026-04-27

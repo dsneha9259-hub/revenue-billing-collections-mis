@@ -6,7 +6,7 @@
 
 A monthly MIS (management information system) report for a professional-services firm: it tracks what was billed, what was collected, how late clients are paying, and whether the underlying data can be trusted, then summarises it in a 5-slide leadership briefing.
 
-🔗 **Live Google Sheet (view only):** (https://docs.google.com/spreadsheets/d/15FPcGa42d4k2XU59zrptUA1etccBLbj4FdlnydmLqmk/edit?usp=sharing)
+🔗 **Live Google Sheet (view only):** https://docs.google.com/spreadsheets/d/15FPcGa42d4k2XU59zrptUA1etccBLbj4FdlnydmLqmk/edit?usp=sharing
 📊 **Leadership deck:** [`deck/Collections_MIS_Leadership_Briefing.pptx`](deck/)
 
 > **Data note:** All data is **synthetic**, generated to mimic a professional-services firm (40 engagements, 168 invoices, 96 receipts, 121 employee records, Apr–Sep 2026). Eleven data-quality errors were deliberately planted to test the validation layer. No real company or client data is used.
